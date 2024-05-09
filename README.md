@@ -151,7 +151,7 @@ public class MainActivity extends AppCompatActivity
 ~~~
 ## OUTPUT
 
-![Screenshot 2024-05-07 174759](https://github.com/VELANDHANANJAYAN/GUI-components/assets/119405038/c127be58-f671-4f05-9be8-7b7b1ea0ffcc)
+![Screenshot 2024-05-07 174708](https://github.com/VELANDHANANJAYAN/GUI-components/assets/119405038/9ce64f45-f1f3-4893-ba5c-939416dffb8e)
 ![Screenshot 2024-05-07 174722](https://github.com/VELANDHANANJAYAN/GUI-components/assets/119405038/9ed60dbb-9b0f-4bb7-b9ba-4f3411207e1d)
 ![Screenshot 2024-05-07 174742](https://github.com/VELANDHANANJAYAN/GUI-components/assets/119405038/1adea5eb-231b-4512-a7cb-8c53e85db0de)
 ![Screenshot 2024-05-07 174759](https://github.com/VELANDHANANJAYAN/GUI-components/assets/119405038/1bde93f4-2731-42a6-9373-6f93040c16c6)
