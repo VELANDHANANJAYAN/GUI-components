@@ -150,11 +150,12 @@ public class MainActivity extends AppCompatActivity
 }
 ~~~
 ## OUTPUT
+![IMG-20240509-WA0017](https://github.com/VELANDHANANJAYAN/GUI-components/assets/119405038/f82b884b-3f17-4ade-a999-9138f7419836)
+![IMG-20240509-WA0012](https://github.com/VELANDHANANJAYAN/GUI-components/assets/119405038/70a97cf3-a1ec-4eea-a088-37973cbd88de)
+![IMG-20240509-WA0015](https://github.com/VELANDHANANJAYAN/GUI-components/assets/119405038/510706c7-6669-4b9e-9ac7-b5c64b4b51b7)
+![IMG-20240509-WA0039](https://github.com/VELANDHANANJAYAN/GUI-components/assets/119405038/49f87787-ce53-4919-9b7d-ff6738881fc5)
 
-![Screenshot 2024-05-07 174708](https://github.com/VELANDHANANJAYAN/GUI-components/assets/119405038/9ce64f45-f1f3-4893-ba5c-939416dffb8e)
-![Screenshot 2024-05-07 174722](https://github.com/VELANDHANANJAYAN/GUI-components/assets/119405038/9ed60dbb-9b0f-4bb7-b9ba-4f3411207e1d)
-![Screenshot 2024-05-07 174742](https://github.com/VELANDHANANJAYAN/GUI-components/assets/119405038/1adea5eb-231b-4512-a7cb-8c53e85db0de)
-![Screenshot 2024-05-07 174759](https://github.com/VELANDHANANJAYAN/GUI-components/assets/119405038/1bde93f4-2731-42a6-9373-6f93040c16c6)
+
 
 ## RESULT
 Thus a Simple Android Application that uses GUI Components with Fonts and Colors using Android Studio is developed and executed successfully.
